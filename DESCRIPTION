@@ -1,0 +1,11 @@
+Package: rTime
+Type: Package
+Title: Time of day to minutes and minutes to time of day
+Version: 0.1.0
+Author: Alok Kumar <connect.alokkumar@gmail.com>
+Maintainer: Alok Kumr <connect.alokkumar@gmail.com>
+Description: Converts time of day (24 hour format hhmm) to minutes and vice versa.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
