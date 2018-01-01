@@ -4,7 +4,7 @@ Change time of day(24 hour format hhmm) to minutes and minutes to time of day (h
 
 How to install:
 
-devtools::install_github("alokapps/rTime")
+# devtools::install_github("alokapps/rTime")
 
 Ex1: 
 input: 120 minutes
